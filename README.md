@@ -2,6 +2,9 @@
 
 Provides a way to redirect users to your app, using a link. Opens up respective store, and navigates to your app's download/open page.
 
+### Hosting
+This was tested using firebase hosting. There are various firebase specific files. Feel free to delete these and use the hosting preference of your choice.
+
 ### Config
 You will find configureable variables in the `public/info.js` file. There you will find,
 ```
