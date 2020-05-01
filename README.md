@@ -3,6 +3,8 @@
 Provides a way to redirect users to your app, using a link. Opens up respective store, and navigates to your app's download/open page.
 
 ### Hosting
+Test the experience on your [phone](https://unav-redirect.firebaseapp.com/).
+
 This was tested using firebase hosting. There are various firebase specific files. Feel free to delete these and use the hosting preference of your choice.
 
 ### Config
